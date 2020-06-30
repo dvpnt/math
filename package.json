@@ -1,0 +1,24 @@
+{
+  "name": "@dvpnt/math",
+  "version": "0.0.0",
+  "description": "mathematical achievements of dvpnt",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint",
+    "test": "tap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvpnt/math.git"
+  },
+  "keywords": [
+    "dvpnt",
+    "math"
+  ],
+  "author": "Aleksey Timchenko <flegmatik.bel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dvpnt/math/issues"
+  },
+  "homepage": "https://github.com/dvpnt/math#readme"
+}
