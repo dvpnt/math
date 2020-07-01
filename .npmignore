@@ -4,5 +4,6 @@
 .gitignore
 .npmignore
 .travis.yml
-test.js
+.nvmrc
 .nyc_output/
+__tests__
