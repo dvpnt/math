@@ -1,6 +1,6 @@
 {
   "name": "@dvpnt/math",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "mathematical achievements of dvpnt",
   "main": "lib/index.js",
   "scripts": {
