@@ -24,7 +24,7 @@
   "dependencies": {
     "mathjs": "6.5.0",
     "nrun": "1.0.0",
-    "underscore": "1.9.1"
+    "underscore": "1.13.8"
   },
   "devDependencies": {
     "eslint": "6.8.0",
