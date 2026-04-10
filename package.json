@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/dvpnt/math#readme",
   "dependencies": {
-    "mathjs": "6.5.0",
+    "mathjs": "15.2.0",
     "nrun": "1.0.0",
     "underscore": "1.9.1"
   },
